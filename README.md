@@ -12,9 +12,13 @@ Clean and user-friendly Streamlit interface.
 
 Deployed online for easy access.
 
-Streamlit Deployment
-Click here to use the chatbot
-(This is the live version hosted using Streamlit Cloud.)
+Live Demo
+
+You can try the chatbot here:  
+[Open Streamlit App](https://ce591d4d8ff6.ngrok-free.app/)
+
+This will open the deployed chatbot in your browser.
+
 
 Video Demo
 Watch the demo here
